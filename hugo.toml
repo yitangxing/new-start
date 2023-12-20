@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://yitangxing.github.io/new-start/'
+canonifyurls = true
 languageCode = 'zh'
 title = '十五分钟生活圈'
 theme = 'ananke'
