@@ -1,0 +1,10 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh'
+title = '十五分钟生活圈'
+theme = 'ananke'
+publishDir = "docs"
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
